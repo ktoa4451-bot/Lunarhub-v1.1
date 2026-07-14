@@ -1,4 +1,4 @@
--- lunar Universal Script Hub v1.0 (release)
+-- lunar Universal Script Hub v1.2 (release)
 local Hub = {
     Scripts = {}
 }
