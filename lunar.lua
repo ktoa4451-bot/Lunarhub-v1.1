@@ -17,8 +17,8 @@ Hub.Scripts = {
             loadstring(game:HttpGet("https://raw.githubusercontent.com/ScriptDLC/ScriptDLC/refs/heads/main/ForsakenDLCHUB"))()
         end
     },
-        ["Forsaken"] = {
-        name = "🔪 Forsaken",
+        ["ink game"] = {
+        name = "🙆 ink game",
         load = function()
             loadstring(game:HttpGet("https://rawscripts.net/raw/Universal-Script-RINGTA-best-script-for-ink-game-206674"))()
         end
