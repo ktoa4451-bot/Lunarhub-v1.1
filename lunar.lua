@@ -17,6 +17,12 @@ Hub.Scripts = {
             loadstring(game:HttpGet("https://raw.githubusercontent.com/ScriptDLC/ScriptDLC/refs/heads/main/ForsakenDLCHUB"))()
         end
     },
+    ["rost alpha"] = {
+        name = "🌋 rost alpha keyless",
+        load = function()
+            loadstring(game:HttpGet('https://pastefy.app/JNOgCLi6/raw?part='))()
+        end
+    },
         ["ink game"] = {
         name = "🙆 ink game",
         load = function()
@@ -24,13 +30,13 @@ Hub.Scripts = {
         end
     },
     ["mm2"] = {
-        name = "🔫mm2",
+        name = "🔫 mm2",
         load = function()
             loadstring(game:HttpGet("https://raw.githubusercontent.com/pruzgar242-rgb/Update/refs/heads/main/out.lua%20(17).txt"))()
         end
     },
     ["Rost alpha"] = {
-        name = "🌋 Rost alpha", -- Исправлена кавычка
+        name = "🔑 Rost alpha", -- Исправлена кавычка
         load = function()
             loadstring(game:HttpGet("https://api.jnkie.com/api/v1/luascripts/public/e629b8f01eed30630fc3cb93da70708fdac4e57f3fd11fc6dc308c4d7ba6c1bd/download"))()
         end
