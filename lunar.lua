@@ -17,6 +17,12 @@ Hub.Scripts = {
             loadstring(game:HttpGet("https://raw.githubusercontent.com/ScriptDLC/ScriptDLC/refs/heads/main/ForsakenDLCHUB"))()
         end
     },
+    ["wallhop"] = {
+        name = "👉 wallhop",
+        load = function()
+            loadstring(game:HttpGet("https://rawscripts.net/raw/Universal-Script-Nova-Wallhop-V4-206099"))()
+        end
+    },
     ["rost alpha"] = {
         name = "🌋 rost alpha keyless",
         load = function()
