@@ -23,7 +23,7 @@ Hub.Scripts = {
             loadstring(game:HttpGet('https://pastefy.app/JNOgCLi6/raw?part='))()
         end
     },
-        ["ink game"] = {
+    ["ink game"] = {
         name = "🙆 ink game",
         load = function()
             loadstring(game:HttpGet("https://rawscripts.net/raw/Universal-Script-RINGTA-best-script-for-ink-game-206674"))()
